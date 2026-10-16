@@ -72,7 +72,7 @@
     "config.map-display-title": "地图显示",
 
     "config.npc-marker-style.name": "NPC 标记样式",
-    "config.npc-marker-style.desc": "选择 NPC 在地图上的显示样式。“默认”使用为各个角色定制的头像裁切；“原版”使用较小的图标，仍处于实验阶段。",
+    "config.npc-marker-style.desc": "NPC 在地图上的标记样式。“默认”为每个 NPC 使用专门调整的头像裁切位置，但自定义 NPC 的显示可能不正确。“原版”使用游戏内置的 NPC 图标，兼容性更好，不过地图上的图标会更小。",
     "config.npc-marker-style.options.default": "默认",
     "config.npc-marker-style.options.vanilla": "原版（实验性）",
 
